@@ -90,7 +90,7 @@ function check(user) {
   <div class="alert alert-${warnaAlert} pt-3 pb-2 alert-dismissible fade show" role="alert">
     <div class="ms-4">
       Kamu memilih <span class="badge bg-${warnaUser}"><i class="fa fa-${iconUser}"></i> ${user}</span><br>
-      Andy memilih <span class="badge bg-${warna}"><i class="fa fa-${icon}"></i> ${com}</span>
+      Fizz memilih <span class="badge bg-${warna}"><i class="fa fa-${icon}"></i> ${com}</span>
       <h5>KAMU ${hasil}!</h5>
       <div type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></div>
     </div>
